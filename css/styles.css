@@ -5,3 +5,19 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.block{
+  max-height: 500px;
+}
+.lead{
+  font-family: fantasy;
+}
+.starter-template{
+  font-style: italic;
+}
+
+.col-sm{
+  font-size: 40px;
+}
+.navbar{
+  background-color: purple !important;
+}
